@@ -1,0 +1,59 @@
+Código	Nombre	Abreviatura	Siglas	Tipo	Créditos	Módulo	Materia	Semestre relativo
+	Fundamentos de programación		FdP	B	6			1
+	Prácticas de programación		PdP	B	6			2
+	Álgebra		ALG	B	6			1
+	Análisis matemático		ANA	B	6			3
+	Fundamentos físicos de la informática		FFI	B	6			4
+	Trabajo en equipo en la red		TER	B	6			1
+	Fundamentos de computadores		FdC	B	6			1
+	Administración y gestión de organizaciones		AGO	B	6			3
+	Estadística		EST	B	6			4
+	Lógica		LOG	B	6			2
+	Competencia comunicativa para profesionales de las TIC		CCP	O	6			2
+	Idioma moderno I: Inglés I		IM1	O	6			1
+	Idioma moderno II: Inglés II		IM2	O	6			3
+	Diseño y programación orientada a objetos		POO	O	6			3
+	Ingeniería del software		IdS	O	6			2
+	Sistemas operativos		SO	O	6			3
+	Uso de base de datos		UBD	O	6			4
+	Grafos y complejidad		GyC	O	6			4
+	Gestión de proyectos		GdP	O	6			5
+	Redes y aplicaciones Internet		RAI	O	6			4
+	Estructura de computadores		EdC	O	6			2
+	Inteligencia artificial		IA	O	6			5
+	Administración de redes y sistemas operativos		ASO	O	6			5
+	Interacción persona ordenador		IPO	O	6			5
+	Diseño de bases de datos		DBD	O	6			5
+	Sistemas distribuidos		SDI	O	6			5
+	Trabajo de fin de grado		TFG	O	12			8
+	Seguridad en redes de computadores		SRC	OP	6			6, 7 u 8
+	Estructura de redes de computadores		ERC	OP	6			6, 7 u 8
+	Diseño de redes de computadores		DRC	OP	6			6, 7 u 8
+	Diseño de sistemas operativos		DSO	OP	6			6, 7 u 8
+	Sistemas empotrados		SEM	OP	6			6, 7 u 8
+	Arquitectura de computadores		AdC	OP	6			6, 7 u 8
+	Arquitecturas de computadores avanzadas		ACA	OP	6			6, 7 u 8
+	Diseño de estructuras de datos		DED	OP	6			6, 7 u 8
+	Ingeniería de requisitos		IdR	OP	6			6, 7 u 8
+	Análisis y diseño con patrones		ADP	OP	6			6, 7 u 8
+	Ingeniería del software de componentes y sistemas distribuidos		ISC	OP	6			6, 7 u 8
+	Proyecto de desarrollo del software		PDS	OP	12			6, 7 u 8
+	Autómatas y gramáticas		AyG	OP	6			6, 7 u 8
+	Compiladores		COM	OP	6			6, 7 u 8
+	Representación del conocimiento		RdC	OP	6			6, 7 u 8
+	Aprendizaje computacional		ACO	OP	6			6, 7 u 8
+	Minería de datos		MD	OP	6			6, 7 u 8
+	Iniciativa emprendedora y dirección de organizaciones		IEM	OP	6			6, 7 u 8
+	Fundamentos de sistemas de información		FSI	OP	6			6, 7 u 8
+	Integración de sistemas de información		ISI	OP	6			6, 7 u 8
+	Uso de sistemas de información en las organizaciones		USI	OP	6			6, 7 u 8
+	Gestión funcional de servicios SI/TI		GFS	OP	6			6, 7 u 8
+	Dirección estratégica de SI/TI		DESITI	OP	6			6, 7 u 8
+	Criptografía		CRI	OP	6			6, 7 u 8
+	Comercio electrónico		CEL	OP	6			6, 7 u 8
+	Modelado de sistemas		MS	OP	6			6, 7 u 8
+	Arquitectura y administración de bases de datos		ABD	OP	6			6, 7 u 8
+	Iniciación a las matemáticas para la ingeniería		IMI	OP	6			6, 7 u 8
+	Data warehouse		DWH	OP	6			6, 7 u 8
+	Prácticas en empresa		PRE	OP	12			6, 7 u 8
+	Asignatura fantasma							

@@ -1,0 +1,46 @@
+		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	Competencia fantasma
+1	Iniciación a la programación	1							1			1									1										
+2	Fundamentos de programación	1	1						1			1									1	1									
+3	Programación en scripting	1	1						1			1										1		1	1						
+4	Programación para la ciencia de datos	1	1			1			1			1								1	1	1		1	1						
+5	Diseño y programación orientada a objetos	1	1			1			1			1									1	1									
+6	Iniciación a las matemáticas para la ingeniería	1				1			1			1								1											
+7	Álgebra lineal	1				1			1			1								1											
+8	Métodos numéricos en ciencia de datos	1				1			1			1		1						1						1					
+9	Modelaje y optimización	1				1			1			1		1						1						1					
+10	Probabilidad y estadística	1				1			1			1		1						1						1					
+11	Análisis multivariante	1				1			1			1		1						1				1		1					
+12	Modelización e inferencia bayesiana	1				1			1			1		1						1				1		1					
+13	Diseño y uso de bases de datos analíticas	1							1			1		1				1					1	1							
+14	Bases de datos para Data Warehousing	1							1			1		1				1	1						1						
+15	Bases de datos no relacionales	1				1			1			1		1				1	1				1		1						
+16	Optimización de bases de datos en entornos analíticos	1				1			1			1		1				1					1	1	1						
+17	Tipología y fuentes de datos	1	1	1					1		1	1	1	1					1	1				1							
+18	Captura y preparación de datos	1	1	1					1		1	1	1	1					1	1				1							
+19	Privacidad y seguridad de los datos	1	1	1					1			1	1	1					1	1								1			
+20	Introducción a la ciencia de datos	1		1	1			1		1	1	1	1	1		1	1														
+21	Minería de datos	1	1	1	1				1	1	1	1	1	1				1	1	1	1	1		1		1					
+22	Aprendizaje automático	1	1	1	1				1	1	1	1	1	1				1	1	1	1	1		1		1					
+23	Análisis en entornos de Big Data	1	1	1					1	1	1	1	1	1				1	1	1	1	1		1		1					
+24	Minería de textos	1	1	1					1	1	1	1	1	1				1	1	1	1	1		1		1					
+25	Análisis de redes sociales	1	1	1					1	1	1	1	1	1				1	1	1	1	1		1		1					
+26	Fundamentos de redes y arquitecturas	1	1								1	1													1						
+27	Sistemas distribuidos	1				1						1	1					1			1										
+28	Infraestructuras de redes para Big Data	1	1	1		1			1		1	1	1	1				1			1										
+29	Seguridad de sistemas	1	1	1		1			1		1	1	1	1				1							1						
+30	Aplicaciones para la toma de decisiones	1			1			1	1			1		1		1				1						1	1	1			
+31	Minería de procesos	1			1			1	1			1		1		1				1						1	1	1			
+32	Customer analytics	1			1			1	1			1		1		1				1						1	1	1			
+33	Diseño de productos de datos	1			1			1	1			1		1		1				1						1	1	1			
+34	Diseño de interacción y diseño de interfaces	1			1		1	1		1		1							1							1	1		1		
+35	Visualización de datos	1		1	1		1	1		1	1	1		1					1					1		1	1	1	1		
+36	Periodismo de datos	1		1	1		1	1		1	1	1	1	1					1					1		1	1	1	1		
+37	Trabajo en equipo en la red					1	1					1															1				
+38	Diseño y gestión de proyectos de ciencia de datos		1	1	1	1	1	1	1	1	1	1		1		1	1	1	1			1	1	1		1	1	1			
+39	Contextualización y diseño del trabajo final de grado		1	1	1	1		1	1	1	1	1		1		1	1	1	1			1	1	1		1	1	1			
+40	Competencia comunicativa	1					1				1	1		1																	
+41	Inglés I	1									1	1	1	1																	
+42	Inglés II	1									1	1	1	1																	
+43	Prácticas		1				1	1	1		1	1			1	1												1			
+44	Trabajo final de grado		1	1	1	1		1	1	1	1	1		1		1	1	1	1			1	1	1		1	1	1		1	
+45	Asignatura fantasma																														

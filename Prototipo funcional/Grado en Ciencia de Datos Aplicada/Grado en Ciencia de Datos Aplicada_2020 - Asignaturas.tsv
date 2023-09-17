@@ -1,0 +1,46 @@
+Código	Nombre	Abreviatura	Siglas	Tipo	Créditos	Módulo	Materia	Semestre relativo
+	Iniciación a la programación		IPRO	OP	6			6
+	Fundamentos de programación		FPRO	B	6			1
+	Programación en scripting		PROS	O	6			3
+	Programación para la ciencia de datos		PCD	B	6			2
+	Diseño y programación orientada a objetos		DPOO	O	6			4
+	Iniciación a las matemáticas para la ingeniería		IMPI	OP	6			6, 7 u 8
+	Álgebra lineal		ALGL	B	6			1
+	Métodos numéricos en ciencia de datos		MNCD	B	6			2
+	Modelaje y optimización		MODO	O	6			3
+	Probabilidad y estadística		PE	B	6			1
+	Análisis multivariante		AM	B	6			2
+	Modelización e inferencia bayesiana		MIB	O	6			4
+	Diseño y uso de bases de datos analíticas		DBDA	O	6			3
+	Bases de datos para Data Warehousing		BDDW	O	6			2
+	Bases de datos no relacionales		BDNR	O	6			5
+	Optimización de bases de datos en entornos analíticos		OBDEA	OP	6			6, 7 u 8
+	Tipología y fuentes de datos		TFD	O	6			3
+	Captura y preparación de datos		CPD	O	6			4
+	Privacidad y seguridad de los datos		PSD	O	6			5
+	Introducción a la ciencia de datos		ICD	B	6			1
+	Minería de datos		MIND	O	6			4
+	Aprendizaje automático		AAUT	O	6			5
+	Análisis en entornos de Big Data		AEBD	O	6			6
+	Minería de textos		MTEX	O	6			7
+	Análisis de redes sociales		ARS	O	6			7
+	Fundamentos de redes y arquitecturas		FRA	B	6			3
+	Sistemas distribuidos		SDIS	OP	6			6, 7 u 8
+	Infraestructuras de redes para Big Data		IRBD	OP	6			6, 7 u 8
+	Seguridad de sistemas		SSIS	OP	6			6, 7 u 8
+	Aplicaciones para la toma de decisiones		ATD	OP	6			6, 7 u 8
+	Minería de procesos		MPRO	OP	12			6, 7 u 8
+	Customer analytics		CUSA	OP	6			6, 7 u 8
+	Diseño de productos de datos		DPD	OP	6			6, 7 u 8
+	Diseño de interacción y diseño de interfaces		DIDI	O	6			4
+	Visualización de datos		VDAT	O	6			5
+	Periodismo de datos		PDAT	O	6			6
+	Trabajo en equipo en la red		TER	B	6			2
+	Diseño y gestión de proyectos de ciencia de datos		DGPCD	O	6			5
+	Contextualización y diseño del trabajo final de grado		CDTFC	O	6			7
+	Competencia comunicativa		CC	O	6			1
+	Inglés I		INGI	B	6			2
+	Inglés II		INGII	O	6			4
+	Prácticas		PRAC	OP	6			6, 7 u 8
+	Trabajo final de grado		TFG	O	12			8
+	Asignatura fantasma							

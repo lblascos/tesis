@@ -1,0 +1,52 @@
+Código	Nombre	Abreviatura	Siglas	Tipo	Créditos	Módulo	Materia	Semestre relativo
+	Matemáticas I		MAT1	B	6			1
+	Matemáticas II		MAT2	B	6			2
+	Física I		FIS1	B	6			3
+	Fundamentos de programación		FPRO	B	6			1
+	Bases de datos		BDAT	B	6			3
+	Administración y gestión de organizaciones		AGO	B	6			2
+	Sistemas operativos		SOPE	B	6			4
+	Señales y sistemas I		SYS1	B	6			3
+	Señales y sistemas II		SYS2	B	6			4
+	Inglés B2.1		ING1	B	6			1
+	Inglés B2.2		ING2	B	6			2
+	Teoría de circuitos		TCIR	B	6			3
+	Sistemas electrónicos		SELE	B	6			4
+	Gestión de proyectos		GPRO	O	6			5
+	Matemáticas para las telecomunicaciones		MTEL	O	6			3
+	Competencia comunicativa para profesionales de las TIC		CCTIC	O	6			2
+	Trabajo en equipo en la red		TER	O	6			1
+	Sistemas de comunicación I		SISC1	O	6			5
+	Redes y Servicios		RYS	O	6			5
+	Telemática		TEL	O	6			4
+	Fundamentos de computadores		FCOM	O	6			1
+	Diseño y programación orientada a objetos		DPOO	O	6			2
+	Electrónica digital		ELED	O	6			5
+	Electrónica de comunicaciones		ECOM	O	6			5
+	Física II		FIS2	O	6			4
+	Circuitos de microondas		CIRM	OP	6			6, 7 u 8
+	Antenas		ANT	OP	6			6, 7 u 8
+	Sistemas de comunicación II		SISC2	OP	6			6, 7 u 8
+	Codificación y modulaciones avanzadas		CMA	OP	6			6, 7 u 8
+	Redes de fibra ópica		RFO	OP	6			6, 7 u 8
+	Redes de distribución y radiodifusión		RDR	OP	6			6, 7 u 8
+	Comunicaciones móviles		CMOV	OP	6			6, 7 u 8
+	Aplicaciones y servicios multimedia		ASM	OP	6			6, 7 u 8
+	Sistemas distribuidos		SDIS	OP	6			6, 7 u 8
+	Aplicaciones y servicios multimedia		ASM	OP	6			6, 7 u 8
+	Telecomunicación en el sector del transporte		TST	OP	6			6, 7 u 8
+	Sistemas de internet		SISI	OP	6			6, 7 u 8
+	Comunicaciones móviles		CMOV	OP	6			6, 7 u 8
+	Redes de distribución y radiodifusión		RDR	OP	6			6, 7 u 8
+	Control y gestión de redes		CGR	OP	6			6, 7 u 8
+	Seguridad en redes		SEGR	OP	6			6, 7 u 8
+	Aplicaciones y servicios multimedia		ASM	OP	6			6, 7 u 8
+	Televisión		TV	OP	6			6, 7 u 8
+	Sistemas de video		SISV	OP	6			6, 7 u 8
+	Procesado de imagen		PIMA	OP	6			6, 7 u 8
+	Procesado de audio		PAUD	OP	6			6, 7 u 8
+	Acústica		ACU	OP	6			6, 7 u 8
+	Electroacústica		ELAC	OP	6			6, 7 u 8
+	Comunicaciones móviles		CMOV	OP	6			6, 7 u 8
+	Trabajo Final de Grado		TFG	O	12			8
+	Asignatura fantasma							
