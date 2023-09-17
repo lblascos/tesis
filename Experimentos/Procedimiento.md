@@ -1,10 +1,9 @@
 Procedimiento para la visualización de un plan de estudios basada en competencias
 
-Pasos tanto en RStudio como en Gephi
+Pasos previos (tanto en RStudio como en Gephi)
 - Hoja de cálculo > gravarla com a CSV (las columnas han de ser competencuas y las filas assignaturas, en caso contrario hay que transponer la matriz en R aplicando el trans.awk). se descargará la pestanya en la que estés.
 
 Pasos para visualizar en RStudio
-- Descargar Excel com a CSV, se descargará la pestanya en la que estés
 - mover el CSV a la carpeta R_treball
 - Abrir Gengraf.R con R studio
 - Sesión > Set working directory > Choose > Carpeta R_treball
