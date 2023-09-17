@@ -5,4 +5,4 @@ En este repositorio se pueden consultar los archivos de datos usados en la tesis
 
 - En la carpeta Experimentos se pueden descargar los datos que sirvieron para realizar los experimentos iniciales
 
-- En la carpeta Prototipo se pueden descargar los archivos de datos que sirven para probar la herramienta alojada en: http://personal.uoc.edu/opendataviz/laia/
+- En la carpeta Prototipo funcional se pueden descargar los archivos de datos que sirven para probar la herramienta alojada en: http://personal.uoc.edu/opendataviz/laia/
