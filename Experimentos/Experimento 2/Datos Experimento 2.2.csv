@@ -1,0 +1,45 @@
+,,,"CB1 - Que los estudiantes hayan demostrado poseer y comprender conocimientos en un área de estudio que parte de la base de la educación secundaria general, y se suele encontrar a un nivel que, si bien se apoya en libros de texto avanzados, incluye también algunos aspectos que implican conocimientos procedentes de la vanguardia de su campo de estudio;",CB2 - Que los estudiantes sepan aplicar sus conocimientos a su trabajo o vocación de una forma profesional y posean las competencias que suelen demostrarse por medio de la elaboración y defensa de argumentos y la resolución de problemas dentro de su área de estudio;,"CB3 - Que los estudiantes tengan la capacidad de reunir e interpretar datos relevantes (normalmente dentro de su área de estudio) para emitir juicios que incluyan una reflexión sobre temas relevantes de índole social, científica o ética; ","CB4 - Que los estudiantes puedan transmitir información, ideas, problemas y soluciones a un público tanto especializado como no especializado;",CB5 - Que los estudiantes hayan desarrollado aquellas habilidades de aprendizaje necesarias para emprender estudios posteriores con un alto grado de autonomía.,CT1 Capacidad para el uso y aplicación de las TIC en el ámbito académico y profesional. ,CT2 Capacidad para comunicarse en una lengua extranjera (inglés),"CG1 Capacidad para comprender las estructuras y procesos del contexto profesional, sus implicaciones sociales y culturales desde una perspectiva global, así como su dimensión internacional.","CG2 Capacidad para identificar, integrarse y participar en comunidades de conocimiento y trabajar en equipo de forma colaborativa y/o cooperativa usando entornos digitales.",CG3 Capacidad para elaborar un pensamiento y discurso crítico sobre el contexto y un posicionamiento ético sobre la práctica profesional. ,"CE1 Capacidad para usar la creatividad en los proyectos de diseño, resolver probemas de forma innovadora y generar nuevas ideas. ","CE2 Capacidad de expresar sensaciones y emociones mediante 
+las diferentes técnicas propias del diseño, así como de propiciar 
+experiencias estéticas de acuerdo con los objetivos del proyecto a 
+realizar.","CE3 Capacidad para aplicar los procesos, estrategias, métodos, técnicas y actividades propias del diseño a proyectos para alcanzar resultados significativos en la relación entre el diseño y las personas.","CE4 Capacidad para gestionar proyectos de diseño inscritos en ámbitos sociales y empresariales, incorporando la cultura del diseño en las organizaciones.","CE5 Capacidad para elaborar mensajes teniendo en cuenta el público al que van dirigidos y las particularidades del encargo, aplicando un pensamiento estratégico y teniendo en cuenta las teorías de la comunicación. ","CE6 Capacidad para dominar las técnicas, herramientas, soportes, materiales y dispositivos necesarios para la formalización del diseño en entornos analógicos y digitales",CE7 Capacidad para analizar y utilizar en los proyectos de diseño conocimientos de historia del diseño y cultura visual. ,CE8 Capacidad para incluir conceptos clave de sostenibilidad y respeto al entorno en los proyectos de diseño. ,CE9 Capacidad para reconocer e incorporar la complejidad de la diversidad cultural y funcional en los procesos y resultados de diseño. ,"CE10 Capacidad para comprender el contexto cultural actual y los movimientos sociales relacionados con la cultura digital, para imprimir una ética de cultura libre y abierta a la práctica del diseño. "
+,ASIGNATURA,Abreviatura,CB1,CB2,CB3,CB4,CB5,CT1,CT2,CG1,CG2,CG3,CE1,CE2,CE3,CE4,CE5,"CE6 Capacidad para dominar las técnicas, herramientas, soportes, materiales y dispositivos necesarios para la formalización del diseño en entornos analógicos y digitales",CE7 Capacidad para analizar y utilizar en los proyectos de diseño conocimientos de historia del diseño y cultura visual. ,CE8 Capacidad para incluir conceptos clave de sostenibilidad y respeto al entorno en los proyectos de diseño. ,CE9 Capacidad para reconocer e incorporar la complejidad de la diversidad cultural y funcional en los procesos y resultados de diseño. ,"CE10 Capacidad para comprender el contexto cultural actual y los movimientos sociales relacionados con la cultura digital, para imprimir una ética de cultura libre y abierta a la práctica del diseño. "
+1,"Historia, teoría y crítica del diseño",Hist,,,1,,,,,1,,1,,,,,,,1,,,1
+2,Cultura visual y nuevos medios,Cult,,,1,,,,,1,,1,,,,,,,1,,,1
+3,Antropología del diseño,Antro,,,1,1,,,1,1,,1,,,,,,,1,1,1,1
+4,Ética y sostenibilidad en el diseño,Etic,,,1,,,,,1,,1,,,,,,,1,1,,1
+5,Taller de comunicación,Com,1,,1,1,,,,1,,,1,,,,1,,,,,
+6,Taller de narrativa,Narr,1,,,1,,,,1,,,1,1,,,1,,1,,,
+7,Fundamentos del diseño gráfico,Fon,1,1,,,,1,,,,,1,1,,,1,1,1,,,
+8,Taller de forma y composición,Form,1,,,,,1,,,,,1,1,,,,1,1,,,
+9,Taller de color,Col,1,,,,,1,,,,,1,1,,,,1,,,,
+10,Taller de dibujo,Dib,1,,,,,1,,,,,1,1,,,,1,,,,
+11,Tipografía,Tip1,,,,,,1,,,,,1,1,,,,1,1,,,
+12,Producción gráfica,P. graf,,,,,,,,1,,,,,,,,1,1,1,1,
+13,Producción y publicación digital,P. dig,,,,,,,,1,,,,,,,,1,,1,1,
+14,Diseño de interacción,Int1,,,,,,1,,,,,1,1,1,,1,1,,,1,
+15,Diseño de interfaces,Int2,,,,,,1,,,,,1,1,1,,,1,,,1,
+16,Infografía y visualización,Info,,1,1,1,,1,1,,1,,1,1,,,1,1,1,,1,1
+17,Programación para el diseño y las artes,Prog,,1,,,,1,1,,1,,1,1,,,,1,,,,1
+18,Creatividad e innovación,Creat,,1,1,,,,1,,,1,1,,1,,,,,,1,1
+19,Diseño centrado en las personas,DCP,,1,1,,,,1,,,1,1,,1,,,,,1,1,1
+20,Gestión del diseño,Gest,,1,1,1,,,,1,1,1,1,,,1,,,,,,1
+21,Proyecto I,P1,,1,,,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1
+22,Proyecto II,P2,,1,,,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1
+23,Proyecto III,P3,,1,,,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1
+24,Proyecto IV,P4,,1,,,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1
+25,TFG,TFG,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+26,Diseño y sociedad,Estil,,,1,,,,,1,,1,,,,,,,1,,,1
+27,Dirección de arte,Dir,,,,,1,,,1,,,1,1,,,1,1,,,,
+28,Diseño generativo,D. gen,,1,,,,1,1,,1,,1,1,,,,1,,,,1
+29,Fabricación digital,Fabdi,,1,,,1,1,1,1,1,,1,,,,,1,,1,1,1
+30,Lenguajes y estándares web,Web,,1,,,,1,1,,1,,1,,,,,1,,,,1
+31,Tipografía avanzada,Tip2,,1,,,,1,1,,1,,1,1,,,1,1,,,,
+32,Ilustración,Ilus,,,,,,1,,1,,,1,1,,,1,1,1,,,
+33,Packaging,Pack,,1,,,1,1,,1,,,1,,,,1,1,1,1,1,1
+34,Fotografía,Foto,,,,,,1,,,1,,1,1,,,1,1,1,,,1
+35,Montaje audiovisual,Munt,,,,1,,1,,,,,1,1,,,1,1,1,,,1
+36,Animación,Anim,,,,,,1,,1,,,1,1,,,1,1,1,,,
+37,Motion graphics,Mot,,,,,1,1,,1,,,1,1,,,1,1,1,,,
+38,Prácticas,Pract,,1,,,,1,,1,,1,1,1,1,1,1,1,,,,
+39,Inglés I,Ang1,,,,,,,1,,,,,,,,,,,,,
+40,Inglés II,Ang2,,,,,,,1,,,,,,,,,,,,,
