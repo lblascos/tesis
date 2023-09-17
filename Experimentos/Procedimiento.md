@@ -1,17 +1,13 @@
 Procedimiento para la visualización de un plan de estudios basada en competencias
 
 Pasos tanto en RStudio como en Gephi
-- Excel > gravarlo com a CSV (las columnss han de ser competencuas y las filas assignaturas, en caso contrario hay que transponer la matriz en R aplicando el trans.awk)
-- R > ejecutar script laia.R
-  -- hay que editar a mano varias cosas (el nombre de archivo de entrada y de salida añadiendo “-jaccard”), esto genera un CSV nombre-jaccard.csv
-  -- este CSV es necesario editarlo para quitarle las comillas dobles, quitar las V de las variables y añadir un punto y coma ‘;’ al principio de la primera línea
-- Gephi > leerlo como undirected, Force atlas / Partition > Modularity
+- Hoja de cálculo > gravarla com a CSV (las columnas han de ser competencuas y las filas assignaturas, en caso contrario hay que transponer la matriz en R aplicando el trans.awk). se descargará la pestanya en la que estés.
 
 Pasos para visualizar en RStudio
-- Descargar Excel com a CSV, se descargará la pestanya en la que estés mapa_net (* rotació pendent)
+- Descargar Excel com a CSV, se descargará la pestanya en la que estés
 - mover el CSV a la carpeta R_treball
 - Abrir Gengraf.R con R studio
-- Sesión > Set working directory>Choose>Carpeta R_treball
+- Sesión > Set working directory > Choose > Carpeta R_treball
 - Cambiar el nombre del CSV en el código para que coincida com el que estamos trabajando (ojo si hay comas en los campos)
 - Hacer Run run run hasta que hace Plot
 - Sobre la línea de Plot hago Run hasta que lo damos por bueno
