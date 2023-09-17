@@ -1,7 +1,7 @@
 Procedimiento para la visualización de un plan de estudios basada en competencias
 
 Pasos previos (tanto en RStudio como en Gephi)
-- Hoja de cálculo > grabarla com a CSV (las columnas han de ser competencuas y las filas asignaturas, en caso contrario hay que transponer la matriz en R aplicando el trans.awk). se descargará la pestaña en la que estés.
+- Hoja de cálculo > grabarla com a CSV (las columnas han de ser competencias y las filas asignaturas, en caso contrario hay que transponer la matriz en R aplicando el trans.awk). se descargará la pestaña en la que estés.
 
 Pasos para visualizar en RStudio
 - mover el CSV a la carpeta R_treball
