@@ -4,9 +4,9 @@ de Laia Blasco Soplon, 2023
 
 
 Si se quiere probar la herramienta con los datos que ya están en el repositorio, hay que:
-1 - Descargar los datos de los distintos programas
-2 - Entrar en la herramienta > http://personal.uoc.edu/opendataviz/laia/
-3 - Subir los datos en cada uno de los apartados: matriz, listado de asignaturas, lista de competencias 
+- 1) Descargar los datos de los distintos programas
+- 2) Entrar en la herramienta > http://personal.uoc.edu/opendataviz/laia/
+- 3) Subir los datos en cada uno de los apartados: matriz, listado de asignaturas, lista de competencias 
 
 
 El procedimiento para probar el prototipo con nuevos datos es:
